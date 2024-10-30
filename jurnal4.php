@@ -1,4 +1,7 @@
+
 <?php
+//Wikawika
+
 $barang= [
     ["id" => 1,"nama_barang" => "buku", "kategori_barang" => "alat tulis", "harga_barang" => 20000],
     ["id" => 2,"nama_barang" => "pulpen", "kategori_barang" => "alat tulis", "harga_barang" => 5000],
